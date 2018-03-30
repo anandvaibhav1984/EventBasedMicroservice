@@ -1,0 +1,14 @@
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\bin\Debug\netcoreapp2.0\EventBasedMicroservice.deps.json
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\bin\Debug\netcoreapp2.0\EventBasedMicroservice.runtimeconfig.json
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\bin\Debug\netcoreapp2.0\EventBasedMicroservice.runtimeconfig.dev.json
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\bin\Debug\netcoreapp2.0\EventBasedMicroservice.dll
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\obj\Debug\netcoreapp2.0\EventBasedMicroservice.csprojResolveAssemblyReference.cache
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\obj\Debug\netcoreapp2.0\EventBasedMicroservice.csproj.CoreCompileInputs.cache
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\obj\Debug\netcoreapp2.0\EventBasedMicroservice.AssemblyInfoInputs.cache
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\obj\Debug\netcoreapp2.0\EventBasedMicroservice.AssemblyInfo.cs
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\bin\Debug\netcoreapp2.0\EventBasedMicroservice.pdb
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\obj\Debug\netcoreapp2.0\EventBasedMicroservice.dll
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\obj\Debug\netcoreapp2.0\EventBasedMicroservice.pdb
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\bin\Debug\netcoreapp2.0\Resilience.Http.dll
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\bin\Debug\netcoreapp2.0\Resilience.Http.pdb
+c:\users\anand_singh\source\repos\EventBasedMicroservice\EventBasedMicroservice\obj\Debug\netcoreapp2.0\EventBasedMicroservice.csproj.CopyComplete

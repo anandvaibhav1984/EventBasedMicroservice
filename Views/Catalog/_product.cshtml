@@ -1,0 +1,19 @@
+﻿@model EventBasedMicroservice.ViewModels.AlbumItem
+
+<form asp-controller="Cart" asp-action="AddToCart">
+    <img class="esh-catalog-thumbnail" src="@Url.Content(Model.AlbumArtUrl)" />
+    <input class="esh-catalog-button @((!User.Identity.IsAuthenticated) ? "is-disabled" : "")" type="submit" value="[ ADD TO CART ]" />
+    <div class="esh-catalog-name">
+        <span>@Model.Title</span>
+    </div>
+    <div class="esh-catalog-price">
+        <span>@Model.Price.ToString("N2")</span>
+    </div>
+    <input type="hidden" asp-for="@Model.AlbumId" name="brand" />
+    <input type="hidden" asp-for="@Model.GenreId" name="brandId" />
+    <input type="hidden" asp-for="@Model.ArtistId" name="type" />
+    <input type="hidden" asp-for="@Model.Title" name="typeId" />
+    <input type="hidden" asp-for="@Model.Price" name="description" />
+    <input type="hidden" asp-for="@Model.AlbumArtUrl" name="id" />
+
+</form>
